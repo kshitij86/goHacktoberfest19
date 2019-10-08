@@ -7,17 +7,17 @@ Repository to submit sample Golang programs, anywhere from basic to intermediate
 
 Code for the following topics in the Go language is expected :
 
-..* Basic Syntax
-..* Data Types
-..* Variables
-..* Keywords
-..* Basic Operators
-..* Decision Making
-..* Loops
-..* Arrays
-..* Strings
-..* Functions
-..* File I/O
+* Basic Syntax
+* Data Types
+* Variables
+* Keywords
+* Basic Operators
+* Decision Making
+* Loops
+* Arrays
+* Strings
+* Functions
+* File I/O
 
 and any other concepts exclusive to Golang.
 
